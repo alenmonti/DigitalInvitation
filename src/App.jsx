@@ -18,7 +18,7 @@ function App() {
 
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center w-full lg:w-[700px] m-auto">
       <Hero />
       <Music />
       <Phrase />
